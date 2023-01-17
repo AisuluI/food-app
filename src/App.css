@@ -1,0 +1,24 @@
+#root{
+margin: 20px;
+}
+
+#input{
+  margin-bottom: 20px;
+  width: 50%;
+  height: 30px;
+}
+
+.all{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+}
+
+Card{
+  margin: 20px;
+}
+
+button{
+  margin: 10px;
+  border: 1px solid black;
+}
